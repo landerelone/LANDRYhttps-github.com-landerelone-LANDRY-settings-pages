@@ -1,0 +1,40 @@
+{
+    margin: 0;
+    padding: 0.
+    box-sizing: boder-box;
+    font-family:'Poppins' , sans-serif
+
+}
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 200vh;
+    background-color:gainsboro;
+
+}section{
+    display: flex;
+    flex-direction: column;
+
+
+}section h1{
+    text-align: center;
+    padding: 10;
+    background-color:rgb(4, 224, 78);
+
+}form input[type= 'submit'] {
+    background-color:rgb(48, 78, 143);
+    border:1;
+    color:aqua
+
+}form input[type= 'reset'] {
+    background-color:rgb(38, 86, 189);
+    border:1;
+    color:aqua
+}
+    
+   
+
+
+
+    
